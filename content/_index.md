@@ -17,11 +17,6 @@ sections:
         url: https://discord.gg/z8wNYzb
       cta_note:
         label: >-
-
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
-        <!--GitHub Button JS-->
-        <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
         gradient_end: '#1976d2'
