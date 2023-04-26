@@ -25,7 +25,7 @@ sections:
           icon: chart-line
           icon_pack: fas
         - name: MS-office
-          description: ç0%
+          description: 90%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -43,7 +43,7 @@ sections:
         - title: Product Development Engineer
           company: Flow Loop
           company_url: ''
-          company_logo: org-gc
+          company_logo: FL
           location: Copenhagen
           date_start: '2022-05-21'
           date_end: ''
@@ -56,7 +56,7 @@ sections:
         - title: PhD in Microbiology applied to Water Treatment
           company: Novozymes
           company_url: ''
-          company_logo: org-x
+          company_logo: novozymes
           location: Copenhagen
           date_start: '2019-02-01'
           date_end: '2022-03-31'
@@ -87,27 +87,27 @@ sections:
       items:
         - certificate_url: https://www.coursera.org
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2021-02-01'
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          title: Data Analyst with Python
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: https://www.coursera.org
+          date_end: ''
+          date_start: '2021-02-01'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Python Programmer
+          url: ''
+        - certificate_url: https://www.coursera.org
           date_end: ''
           date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Data Scientist with Python
           url: ''
     design:
       columns: '2'
