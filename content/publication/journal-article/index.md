@@ -1,16 +1,20 @@
 ---
-title: "An example journal article"
+title: "Microbiome structure and function in woodchip bioreactors for nitrate removal in agricultural drainage water"
 authors:
 - admin
-- Robert Ford
+- Joachim Audet
+- Sebastian Reinhold Sorensen
+- Kirk Matthew Schnorr
+- Finn Plauborg
+- Lars Elsgaard
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2021-08-06T00:00:00Z"
+doi: "doi.org/10.3389/fmicb.2021.678448"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-08-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +23,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Frontiers in Microbiology, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Woodchip bioreactors are increasingly used to remove nitrate (NO3–) from agricultural drainage water in order to protect aquatic ecosystems from excess nitrogen. Nitrate removal in woodchip bioreactors is based on microbial processes, but the microbiomes and their role in bioreactor efficiency are generally poorly characterized. Using metagenomic analyses, we characterized the microbiomes from 3 full-scale bioreactors in Denmark, which had been operating for 4–7 years. The microbiomes were dominated by Proteobacteria and especially the genus Pseudomonas, which is consistent with heterotrophic denitrification as the main pathway of NO3– reduction. This was supported by functional gene analyses, showing the presence of the full suite of denitrification genes from NO3– reductases to nitrous oxide reductases. Genes encoding for dissimilatory NO3– reduction to ammonium were found only in minor proportions. In addition to NO3– reducers, the bioreactors harbored distinct functional groups, such as lignocellulose degrading fungi and bacteria, dissimilatory sulfate reducers and methanogens. Further, all bioreactors harbored genera of heterotrophic iron reducers and anaerobic iron oxidizers (Acidovorax) indicating a potential for iron-mediated denitrification. Ecological indices of species diversity showed high similarity between the bioreactors and between the different positions along the flow path, indicating that the woodchip resource niche was important in shaping the microbiome. This trait may be favorable for the development of common microbiological strategies to increase the NO3– removal from agricultural drainage water.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -34,8 +36,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -46,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Sketch of the woodchip bioreactors (BR). From the inflow, where sedimentation tanks are located, the water goes through a matrix composed of woodchips (BR3) or a mix of woodchips and seashells (BR1 and BR2). The water goes out through a flow meter and an oxygenation device.'
   focal_point: ""
   preview_only: false
 
