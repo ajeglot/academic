@@ -25,7 +25,7 @@ publication_types: ["2"]
 publication: "*Microorganisms, 9*(6)"
 publication_short: ""
 
-abstract: Denitrifying woodchip bioreactors (WBR), which aim to reduce nitrate (NO3−) pollution from agricultural drainage water, are less efficient when cold temperatures slow down the microbial transformation processes. Conducting bioaugmentation could potentially increase the NO3− removal efficiency during these specific periods. First, it is necessary to investigate denitrifying microbial populations in these facilities and understand their temperature responses. We hypothesized that seasonal changes and subsequent adaptations of microbial populations would allow for enrichment of cold-adapted denitrifying bacterial populations with potential use for bioaugmentation. Woodchip material was sampled from an operating WBR during spring, fall, and winter and used for enrichments of denitrifiers that were characterized by studies of metagenomics and temperature dependence of NO3− depletion. The successful enrichment of psychrotolerant denitrifiers was supported by the differences in temperature response, with the apparent domination of the phylum Proteobacteria and the genus Pseudomonas. The enrichments were found to have different microbiomes’ composition and they mainly differed with native woodchip microbiomes by a lower abundance of the genus Flavobacterium. Overall, the performance and composition of the enriched denitrifying population from the WBR microbiome indicated a potential for efficient NO3− removal at cold temperatures that could be stimulated by the addition of selected cold-adapted denitrifying bacteria.
+abstract: Denitrifying woodchip bioreactors (WBR), which aim to reduce nitrate (NO3−) pollution from agricultural drainage water, are less efficient when cold temperatures slow down the microbial transformation processes. Conducting bioaugmentation could potentially increase the NO3− removal efficiency during these specific periods. First, it is necessary to investigate denitrifying microbial populations in these facilities and understand their temperature responses. We hypothesized that seasonal changes and subsequent adaptations of microbial populations would allow for enrichment of cold-adapted denitrifying bacterial populations with potential use for bioaugmentation. Woodchip material was sampled from an operating WBR during spring, fall, and winter and used for enrichments of denitrifiers that were characterized by studies of metagenomics and temperature dependence of NO3− depletion. The successful enrichment of psychrotolerant denitrifiers was supported by the differences in temperature response, with the apparent domination of the phylum Proteobacteria and the genus Pseudomonas. The enrichments were found to have different microbiomes’ composition and they mainly differed with native woodchip microbiomes by a lower abundance of the genus Flavobacterium. Overall, the performance and composition of the enriched denitrifying population from the WBR microbiome indicated a potential for efficient NO3− removal at cold temperatures that could be stimulated by the addition of selected cold-adapted denitrifying bacteria.#
 
 
 tags:
@@ -40,12 +40,12 @@ featured: false
 #   url: ""
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -59,7 +59,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+#projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

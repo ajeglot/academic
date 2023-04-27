@@ -1,7 +1,7 @@
 ---
 title: PhD in Environmental Microbiology applied to Water treatment
 subtitle: Introduction to my PhD project
-summary: Introduction to my PhD project
+summary: PhD at Aarhus University, Denmark
 authors:
   - admin
 tags: []

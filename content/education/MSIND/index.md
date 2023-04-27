@@ -1,7 +1,7 @@
 ---
 title: Master of Engineering in Industrial Engineering
 subtitle: M.Eng. at Centrale Lille
-summary: M.Eng. at Centrale Lille
+summary: M.Eng. at Centrale Lille, France
 authors:
   - admin
 tags: []

@@ -22,12 +22,12 @@ sections:
           icon_pack: fab
         - name: Python
           description: 80%
-          icon: chart-line
-          icon_pack: fas
+          icon: python
+          icon_pack: fab
         - name: MS-office
           description: 90%
-          icon: camera-retro
-          icon_pack: fas
+          icon: microsoft
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
@@ -209,10 +209,12 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Water filtration
+          tag: Water filtration
+        - name: Water disinfection
+          tag: Water disinfection
+        - name: Water reuse
+          tag: Water reuse
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -278,32 +280,32 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: ajeglot@gmail.com
       phone: 
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 
-        city: 
-        region: 
-        postcode: ''
-        country: 
-        country_code: 
-      directions: 
-      office_hours:
-        - ''
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: ''
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: ''
+      appointment_url: 'https://calendly.com/ajeglot/30min'
+#      address:
+#        street: 
+#        city: 
+#        region: 
+#        postcode: ''
+#        country: 
+#        country_code: 
+#      directions: 
+#      office_hours:
+#        - ''
+#      contact_links:
+#        - icon: twitter
+#          icon_pack: fab
+#          name: DM Me
+#          link: 'https://twitter.com/Twitter'
+#        - icon: skype
+#          icon_pack: fab
+#          name: Skype Me
+#          link: ''
+#        - icon: video
+#          icon_pack: fas
+#          name: Zoom Me
+#          link: ''
       # Automatically link email and phone or display as text?
-      autolink: true
+#      autolink: true
       # Email form provider
       form:
         provider: netlify

@@ -1,7 +1,7 @@
 ---
 title: Master of Science in Environmental Engineering
 subtitle: M.S. at DTU
-summary: M.S. at DTU
+summary: M.S. at DTU, Denmark
 authors:
   - admin
 tags: []

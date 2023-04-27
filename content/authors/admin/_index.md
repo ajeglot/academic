@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Water quality expert
+role: Scientist / Engineer / Water quality expert
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Flow Loop
-    url: https://www.flow-loop.com/
+#organizations:
+#  - name: Flow Loop
+#    url: https://www.flow-loop.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in projects supporting sustainability. I strive to innovate in water projects using state of the art technologies.
@@ -29,6 +29,7 @@ interests:
     - Water treatment
     - Water disinfection
     - Water reuse
+    - Sustainability
 
 # Education to show in About widget
 education:
@@ -50,7 +51,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'ajeglot@gmail.com'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
