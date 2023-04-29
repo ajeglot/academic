@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Scientist / Engineer / Water quality expert
+role: Environmental Engineer, PhD
 
 # Organizations/Affiliations to show in About widget
 #organizations:
