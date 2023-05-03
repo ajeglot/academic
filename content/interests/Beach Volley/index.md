@@ -1,7 +1,7 @@
 ---
 title: Beach Volley
-subtitle: A passion for balling on the beach
-summary: A passion for balling on the beach
+subtitle: A passion for playing on the beach
+summary: A passion for playing on the beach
 authors:
   - admin
 tags: []
