@@ -29,8 +29,10 @@ sections:
           icon: microsoft
           icon_pack: fab
         - name: Water Treatment
+          description: 100%
           icon: droplet
           icon_pack: fab
+
   - block: experience
     content:
       title: Experience
