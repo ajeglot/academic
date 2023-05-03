@@ -30,21 +30,21 @@ Grey water reuse
 
 ## Water cycle
 
-Water is an essential ressource for life on our planet. It flows contrinuously around the water cycle, changing states continuously.
-From the surface water that we can all see in streams, lakes and seas, water evaporates to become clouds that will eventually distributed it back on land.
+Water is an essential ressource for life on our planet. It flows continuously around the water cycle, changing states continuously.
+From the surface water that we can all see in streams, lakes and seas, water evaporates to become clouds that will eventually be redistributed it back on land.
 Most of it will end up in higher grounds such as mountains and plateaus and flow down in watersheds or water valley. The streams paths have shaped
 the surface of earth since its beginning. It is also true for underground lakes where water percolates before coming back to the surface closer to the sea level
 in wetlands, swamps and streams. Water is a great body for mixing in this different states, multiple chemicals in molecules are contained in water bodies.
-Making it a great source of necessary nutrient for life.
+Making it a great source of necessary nutrients for life.
 
 ## Drinking Water
 
 **Sources**
 
-Pure water perfectly suitable for drinking are actually coming out of most mountain springs. Rarely this source can be precontaminated by excess of chemicals or matter (Iron and mud for example).
+Pure water perfectly suitable for drinking is actually coming out of most mountain springs. Rarely this source can be precontaminated by excess of chemicals or matter (Iron and mud for example).
 The water from this streams usually gets contaminated along its way to the sea but in general the most suitable bodies for drinking water are surface water and underground water.
-For underground water the first step is its detection. Nowadays, elaborated drone map the ground sending and receiveing electromagnetic waves. Once the underground lake is identified, then a extraction 
-site is build to pump the water from the ground and direct it to the nearest drinking water treatment plant. Similarly, the surface water is reaching the 
+For underground water the first step is its detection. Nowadays, elaborated drones map the ground sending and receiveing electromagnetic waves. Once the underground lake is identified, then an extraction 
+site is built to pump the water from the ground and direct it to the nearest drinking water treatment plant. Similarly, the surface water is reaching the 
 treatment plant.
 
 **Treatment**
@@ -56,9 +56,9 @@ or chlorine.
 
 **Distribution**
 
-The indispensable role of safe drinking water in our daily life has create the need to have very elaborated network of distribution. Once treated the water is 
+The indispensable role of safe drinking water in our daily life has created the need to have very elaborated network of distribution. Once treated the water is 
 dispatched towards storage units, such as water towers, closer to final distribution. Then the water is distributed in the city using the pressure created by the location and 
-the height of the water towers coupled with pumping station. The water is ussually supplied at a pressure between 1-4 bars in Europe and the USA. 
+the height of the water towers coupled with pumping stations. The water is usually supplied at a pressure between 1-4 bars in Europe and the USA. 
 
 Some or part of the steps involved in water supply are either insured by a governmental institutions, represented by a local office or contracted companies expert in water technologies. 
 
