@@ -18,7 +18,7 @@ image:
 ## Introduction
 
 The Environmental Engineering master program at DTU is one of the oldest in Europe. A student in this program can follow various study lines that are determined by the electives chosen.
-For my part I follow the study line referred as Residual Resource Engineering. During my studies at DTU, other than the mandatory courses I focused on water treatment and bioenergy production.
+For my part I followed the study line referred as Residual Resource Engineering. During my studies at DTU, other than the mandatory courses I focused on water treatment and bioenergy production.
 You can find out more about the program there: https://www.dtu.dk/english/education/graduate/msc-programmes/environmental-engineering.
 
 ## Master thesis
@@ -27,7 +27,7 @@ I conducted my master thesis project with Irini Angelidaki as my main supervisor
 The title is "Novel cultivation strategies of ammonia tolerant methanogenic consortia focused on: microbial growth, density and preservability".
 In short, high levels of ammonia are inhibiting the conversion of organic matter to methane in the anaerobic digestion process. To alleviate what is referred
 as ammonia inhibition, bioaugmentation of ammonia tolerant methanogenic consortia was investigated in the group where I studied. This novel technology proven effective,
-I got hte challenge to investigate ways to bring this technology to larger scale, from laboratory scale to pilot and field scale. Therefore, the objectives of this study were to optimize the cultivation
+I got the challenge to investigate ways to bring this technology to larger scale, from laboratory scale to pilot and field scale. Therefore, the objectives of this study were to optimize the cultivation
 of the ammonia tolerant methanogenic consortia, the concentration and the preservability.
 
 Therefore, I optimized the cultivation of the microbial cultures by comparing various fed-batch cultivation strategies. Then I tested the upconcentration method with the use of forward osmosis
@@ -53,14 +53,14 @@ https://doi.org/10.1016/j.renene.2021.04.096.
 
 ## Awards
 
- Veolia Performance Trophy for best M.S. Thesis - 2018
+Veolia Performance Trophy for best M.S. Thesis - 2018
 Learn more following this link: https://www.veolia.com/en/newsroom/news/performance-trophies-2018-students-prize-boston.
 
 ## Courses
 
 Mandatory Courses
 - Modelling of environmental processes and technologies
-- Environmental Economics 
+- Environmental economics 
 - Environmental management and ethics 
 - Chemicals in the environment
 					

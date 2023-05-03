@@ -14,18 +14,18 @@ image:
   focal_point: ''
 ---
 
-## Student helper at COWI 2017-2018
+## Student worker at COWI 2017-2018
 
-During my Master's in Environmental Engineering at DTU, Denmark. I had the chance to work at COWI as a student helper. The team I integrated was conducting soil mapping projects preceding
- the construction of infrastructures. Therefore, a team of 2 to 4 workers was going on the field to measure parameters such as soil resistivity and seismic properties of the soil. The soil resistivty was
+During my Master's in Environmental Engineering at DTU, Denmark. I had the chance to work at COWI as a student worker. The team I integrated was conducting soil mapping projects preceding
+ the construction of infrastructures. Therefore, a team of 2 to 4 workers was going on the field to measure parameters such as soil resistivity and seismic properties of the soil. The soil resistivity was
 measured with long cables equipped with numerous electrodes that would receive the refracted electrical current on the different layers composing the soil. Another method was the detonation of a bullet in the 
-soil and the measure of the seismic shock waves. I took part in both field work and data analysis in this team for a year before finishing my Master's.
+soil and the measure of seismic shock waves. I took part in both field work and data analysis in this team for a year before finishing my Master's.
 
 
-## Agricultural internship in organic farming in India 2017
+## Internship in organic farming in India 2017
 
 During the summer of 2017, I went to India for 2 months to discover the culture and learn organic farming at Navdanya. Navdanya is a NGO located close to Deradhun in Uttarakhand, India.
-This NGO is led by Vandana Shiva who is a peaceful climate activit. During my time at the farm, I learn how to grow rice, legumes and citrus trees in respect of the environment. This was a community 
+This NGO is led by Vandana Shiva who is a peaceful climate activist. During my time at the farm, I learn how to grow rice, legumes and citrus trees in respect of the environment. This was a community 
 experience where everyday we were contributing to the farm work as well as the cooking cleaning and self teaching. As an engineer I also had the chance to share with my fellow interns and learn from them as well.
 This experience really raised my awareness on the topics such as land ownership, nature protection, seeds diversity and preservation.
 
@@ -33,9 +33,8 @@ This experience really raised my awareness on the topics such as land ownership,
 
 For my last internship durng my Master's in Industrial Engineering I integrated the Energy and Climate unit at Artelia. This unit is composed of consultants working on advising
 public institutions such as municipalities and regions in France on how to plan the energy transition. They provide recommendations on which type of renewable they should install and where
-for example. During this internship I was in charge of developping a predictive tool for energy consumption in given regions. I develop this tool using VBA based on electricity consumption data.
-I also contributed to customers meetings by summarizing national regulations and future development goals.
-
+for example. During this internship I was in charge of developping a predictive tool for energy consumption in given regions. I developped this tool using VBA based on electricity consumption data.
+I also contributed to customer meetings by summarizing national regulations and future development goals.
 
 ## Intern assessing risk of water scarcity in Lima 2015
 

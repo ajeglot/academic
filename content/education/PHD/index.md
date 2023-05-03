@@ -16,7 +16,7 @@ image:
 
 ## Introduction
 
-The objective of this research project was to optimize nitrogen removal from contaminated agricultural drainage water during the winter when water temperature are low.<br>
+The objective of this research project was to optimize nitrogen removal from contaminated agricultural drainage water during the winter when water temperatures are low.<br>
 The idea of the project was to first identify the active microbial commmunities in the biological treatment unit (also referred as bioreactor), then select native and non-native 
 microbial species to be reinjected in the ecosystem to enhance nitrogen removal.<br>
 Therefore, during this project, I investigated the biochemistry and the microbial ecology of the ecosystem. Then I focused on microbial (bacterial and fungal) selection for bioaugmentaiton purposes.
@@ -28,24 +28,23 @@ During the last part of the study, I monitored the impact of injecting native an
 My experience at Aarhus University was divided in 2 stays. I first joined the research group of Soil Fertility to learn the methods associated with carbon and nitrogen analyses.
 I conducted many preliminary experiments assessing the nitrogen removal in the bioreactors and starting enrichment cultures to monitor nitrogen removal of the active bacterial species.
 The methods I used included Gas Chromatography, Liquid Chromatography, Colorimetric assays, Spectrophotometry and bacterial counts. 
-During my second stay, I designed and supported for the construction of pilot scale bioreactors. Subsequently, I operated the pilot plant facility to test different injection methods
-still with the aim to improve biological nitrogen removal from water.
+During my second stay, I designed the building of pilot scale bioreactors. Subsequently, I operated the pilot plant facility to test different injection methods with the aim to improve biological nitrogen removal from water.
 
 ## Experience at Novozymes
 
-At Novozymes, I was collaborating with researchers from the department of Microbial Discovery. In this department, they are mainly focused in identifying 
+At Novozymes, I was collaborating with researchers from the department of Microbial Discovery. In this department, they are mainly focused on identifying 
 novel enzymes from wild strains and clone them to assess their performances in specific conditions. I was trained in microbial screening, isolation, visual taxonomic identification, 
-DNA based identification, genome reading, microbiome studies, qPCR, Mass Spectrophotometry, Flow cytometry NGS sequencing, metagenomics. I designed many experiments aiming at comparing
+DNA based identification, genome reading, microbiome studies, qPCR, Mass Spectrophotometry, Flow cytometry NGS sequencing and metagenomics. I designed many experiments aiming at comparing
 microbial growth performances in order to select the best candidates for bioaugmentation. 
 
 At Novozymes, it was passionating to conduct microbial screening from wild enrichment cultures and identify all the different bacteria growing on the plates. It was a real playground 
 to see how diverse growth conditions (light, temperature, media composition, oxic conditions) would provide the opportunity to isolate different bacteria. It was also very interesting
-to isolate fungi from environmental samples such as soil and Woodchips. Realizing the fungal diversity in very spoil samples was striking, and the diversity of shapes and colors opened my
-eyes on my ignorance. Thus, it was a pleasure to read more on the topic and gain knowledge on the fungal world. I conducted a study comparing mainly Basidiomycete to indentify the fastest grower
+to isolate fungi from environmental samples such as soil and woodchips. Realizing the fungal diversity in soil samples was striking, and the diversity of shapes and colors opened my
+eyes on my ignorance. Thus, it was a pleasure to read more on the topic and gain knowledge on the fungal world. I conducted a study comparing mainly Basidiomycetes to identify the fastest growing strain
 on a minimal media supplemented with wood dust. Three fungal strains were selected and tested at the pilot facility to investigate how much a fungal inoculation on the woodhcip would promote carbon degradation
 and therefore enhance biological activity.
 
-A big part of my activities at Novozymes was focused on genomic analyses. I conducted numerous DNA extraction, PCR product preparation for Tagmentation (16s and ITS), library preparation for NGS 
+A big part of my activities at Novozymes was focused on genomic analyses. I conducted numerous DNA extractions, PCR product preparations for Tagmentation (16s and ITS), library preparations for NGS 
 sequencing. Learn more about my experience on the page dedicated to my work at Novozymes.
 
 
@@ -76,7 +75,7 @@ N from point source (farm drains, industrial and domestic effluents) and nonpoin
 on NO3- removal. They were first investigated by Seidel (1955) in Germany and the research to improve the functioning of these systems spread around the world with main contributions from the USA, 
 New Zealand, Canada, Sweden and Denmark. WBR facilities have been chosen to treat NO3- from agricultural run-offs mainly due to their high NO3- removal efficiency, their low-cost and low maintenance 
 compared to other technologies (Schipper et al., 2010). In Denmark, the government decided to fund the construction of WBRs facilities on farmers land to promote the use of the technology 
-(Vandplanlægning, 2016), increasing the need for research to keep optimizing the technology.
+(Vandplanlaegning, 2016), increasing the need for research to keep optimizing the technology.
 
 WBRs are designed to provide anoxic conditions favoring the occurrence of heterotrophic denitrification. Woodchips were chosen to be a long lasting C source and so far their longevity to sustain 
 efficient NO3- removal has been assessed to be about 10 years (Robertson, 2010). Denitrification is a respiration process using NO3- as electron acceptor and the process is conducted mainly by 
@@ -167,7 +166,7 @@ During this collaboration we conducted various analyses on some samples from a p
 microbial composition of the samples (Metagenomic analyses based on DNA and cDNA) and the quantity of specific organisms and genes with qPCR methods. We reconstructed genomes 
 thanks to the Metagenomic data using Anvi'o. All in all, I developped my skills in hands-on molecular biology practices and bioinformatics (Dada2 with R, Anvi'o with Bash, Web scrapping with Python).
 
-Learn more about my exchange support by a grant from the European Molecular Biology Organization following this link: (https://agro.au.dk/en/current-news/news/show/artikel/phd-student-receives-embo-scientific-exchange-grant)
+Learn more about my exchange supported by a grant from the European Molecular Biology Organization following this link: (https://agro.au.dk/en/current-news/news/show/artikel/phd-student-receives-embo-scientific-exchange-grant)
 
 ## Scientific articles
 

@@ -19,10 +19,10 @@ image:
 
 The École Centrale de Lille is one of the top schools of engineering in France. It is part of the group Écoles Centrale which are also a great network for research and business.
 At the École Centrale, the students are educated in multiple fields of engineering and therefore the graduates end up working in many different fields. Nonetheless, the main focus of the education
-is to provide technical knowledge to the student to make it an engineer driven by innovation and aiming to reach optimization in all kind of processes.
+is to provide technical knowledge to the student to make it an engineer driving innovation and aiming to reach optimization in all kind of processes.
 
-he main way to integrate École Central de Lille is to take a competitive exam after 2-3 years of undergrade studies in a prepartory class. The written exam is usually composed of: 2 tests i Mathematics, 
-2 tests in Physics, 1 in Science of Engineering, 1 in Chemistry, 1 in English and 1 in French/Philosophy. The same kind of tests are repeated during a second round that take place orally.
+The main way to integrate École Central de Lille is to take a competitive exam after 2-3 years of undergrade studies in a preparatory class. The written exam is usually composed of: 2 tests i Mathematics, 
+2 tests in Physics, 1 in Science of Engineering, 1 in Chemistry, 1 in English and 1 in French/Philosophy. The same kind of tests are repeated during a second round that takes place orally.
 
 ## Internships
 
@@ -46,7 +46,7 @@ Universidad politecnica de Lima, Lima, Peru
 
 Support in a project at Universidad Politecnica de Lima. Two months internship with the aim to determine the quality and the quantity
 of Lima's water ressources in order to assess the risks of a water crisis. Work carried out with the supervision of Doctor Modesto Montoya
-and the collaboration of hydrogeologist from the peruvian national water institute INGEMMET.
+and the collaboration of hydrogeologists from the peruvian national water institute INGEMMET.
 - Risk assessment of water shortage in Lima 
 - Creation of a map gathering information on available water sources in Lima
 
@@ -56,10 +56,10 @@ and the collaboration of hydrogeologist from the peruvian national water institu
 
 Artelia, La Défense, Puteaux, France
 
-Internship with the project management team in charge of building the tower Athena for the company Allianz at La Défense.
+Internship with the project management team in charge of renovating the tower Athena for the company Allianz at La Défense.
 
 - Support in following the advances in the construction (communication with craftsmen, checking the respect of the specifications)
-- Improvement of project management tool (Pivot table in Excel) 
+- Improvement of project management tools (Pivot table in Excel) 
 
 ## Courses
 
@@ -77,7 +77,7 @@ Internship with the project management team in charge of building the tower Athe
 - Electronic systems
 
 **Material science**
-- Introduction to solid's physics'
+- Introduction to solids' physics
 - Transfer phenomena 
 - Aerohydrodynamics
 - Thermodynamics
@@ -93,7 +93,7 @@ Internship with the project management team in charge of building the tower Athe
 				
 **Corporate world and society**
 - Sociology in organizations
-- Intorduction to accounting and finances of a company 
+- Introduction to accounting and finances of a company 
 - Culture and communication
 - Economy 
 - Management
@@ -117,7 +117,7 @@ Internship with the project management team in charge of building the tower Athe
 
 Fall semester 2014 
 
-Universitat Politècnica de Valencia
+Universitat Politecnica de Valencia
 
 One semester in exchange at Universitat Politecnica de Valencia, Spain. Master in information management (digital communication, Law regarding digital information and IT, cybersecurity).
 
