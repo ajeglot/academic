@@ -24,10 +24,10 @@ sections:
           description: 80%
           icon: python
           icon_pack: fab
-        - name: MS-office
-          description: 90%
-          icon: microsoft
-          icon_pack: fab
+        #- name: MS-office
+        #  description: 90%
+        #  icon: microsoft
+        #  icon_pack: fab
         - name: Water Treatment
           description: 100%
           icon: water
