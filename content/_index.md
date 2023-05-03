@@ -29,7 +29,7 @@ sections:
           icon: microsoft
           icon_pack: fab
         - name: Water Treatment
-          icon: tank-water
+          icon: droplet
           icon_pack: fab
   - block: experience
     content:
