@@ -28,6 +28,9 @@ sections:
           description: 90%
           icon: microsoft
           icon_pack: fab
+        - name: Water Treatment
+          icon: tank-water
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
