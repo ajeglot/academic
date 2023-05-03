@@ -30,7 +30,7 @@ sections:
           icon_pack: fab
         - name: Water Treatment
           description: 100%
-          icon: droplet
+          icon: water
           icon_pack: fab
 
   - block: experience
